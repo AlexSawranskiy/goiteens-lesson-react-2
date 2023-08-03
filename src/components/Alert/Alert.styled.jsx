@@ -1,16 +1,17 @@
 import styled from 'styled-components'
 
-    function getBgColor({type}) {
+    function getBgColor({type, theme}) {
+        console.log(theme);
         switch (type) {
             case "error":
-                return 'red';
+                return theme.colors.error;
             case "warning":
-                return 'orange';
+                return theme.colors.warning
             case "success":
-                return 'green';   
+                return theme.colors.success   
         
             default:
-                return 'grey';
+                return theme.colors.grey;
         }
     };
 
