@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goiteens-lesson-react-2/static/css/main.7acaea2f.css",
-    "main.js": "/goiteens-lesson-react-2/static/js/main.07d3183d.js",
+    "main.css": "/goiteens-lesson-react-2/static/css/main.b5320759.css",
+    "main.js": "/goiteens-lesson-react-2/static/js/main.a5b6a095.js",
     "index.html": "/goiteens-lesson-react-2/index.html",
-    "main.7acaea2f.css.map": "/goiteens-lesson-react-2/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/goiteens-lesson-react-2/static/js/main.07d3183d.js.map"
+    "main.b5320759.css.map": "/goiteens-lesson-react-2/static/css/main.b5320759.css.map",
+    "main.a5b6a095.js.map": "/goiteens-lesson-react-2/static/js/main.a5b6a095.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b5320759.css",
+    "static/js/main.a5b6a095.js"
   ]
 }
