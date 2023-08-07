@@ -12,6 +12,7 @@ const theme = {
     success: 'green',
     error: 'red',
     grey: 'grey',
+    
   }
 }
 
